@@ -1,3 +1,5 @@
+This project is created by using React as Frontend and FastAPI as Backend.
+
 How to run app:
 1. Open terminal and cd into FastAPI
 2. type: pip install requirements.txt
